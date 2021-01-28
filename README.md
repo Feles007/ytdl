@@ -5,7 +5,9 @@ IDK what to call this so...
 
 ## Usage
 Simply input a file, with links on each line. If it can be interpreted by youtube-dl, it should work.
-Use the custom syntax if you need it. Speaking of:
+Use the custom syntax if you need it. 
+
+Speaking of:
 
 ## Syntax
 Blank lines are skipped.
