@@ -1,21 +1,14 @@
 # ytdl
-Basically just an easier, but dumbed-down "front-end" for youtube-dl.
-
+Basically just an easier, but dumbed-down "front-end" for youtube-dl.<br>
 IDK what to call this so...
-
 ## Usage
 Simply input a file, with links on each line. If it can be interpreted by youtube-dl, it should work.
-Use the custom syntax if you need it. 
-
+Use the custom syntax if you need it.<br>
 Speaking of:
-
 ## Syntax
-Blank lines are skipped.
-
-There are two commands: `$PRE` `$POST`
-
-They indicate the PRE and POST values for all succeeding lines.
-
+Blank lines are skipped.<br>
+There are two commands: `$PRE` `$POST`<br>
+They indicate the PRE and POST values for all succeeding lines.<br>
 For example, an input file of:
 ```
 $PRE
